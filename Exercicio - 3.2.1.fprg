@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Pleiterson"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-05-29 02:45:21 "/>
+        <attribute name="created" value="UGxlaXRlcnNvbjtQTEVJVEVSU09OLVBDOzIwMjAtMDUtMjk7IjAyOjI3OjQ1ICI7MzIyMQ=="/>
+        <attribute name="edited" value="UGxlaXRlcnNvbjtQTEVJVEVSU09OLVBDOzIwMjAtMDUtMjk7IjAyOjQ1OjIxICI7MzszMzI1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="cont, limite" type="Integer" array="False" size=""/>
+            <assign variable="cont" expression="1"/>
+            <assign variable="limite" expression="10"/>
+            <while expression="cont&lt;=limite">
+                <output expression="&quot;9 x &quot; &amp; cont &amp; &quot; = &quot; &amp; 9*cont" newline="True"/>
+                <assign variable="cont" expression="cont+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

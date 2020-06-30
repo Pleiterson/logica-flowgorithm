@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Pleiterson"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-05-28 08:04:28 "/>
+        <attribute name="created" value="UGxlaXRlcnNvbjtQTEVJVEVSU09OLVBDOzIwMjAtMDUtMjg7IjA0OjU5OjA1ICI7MzIyMw=="/>
+        <attribute name="edited" value="UGxlaXRlcnNvbjtQTEVJVEVSU09OLVBDOzIwMjAtMDUtMjg7IjA4OjA0OjI4ICI7NDszMzMz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media, total" type="Real" array="False" size=""/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <if expression="media&gt;=7">
+                <then>
+                    <output expression="&quot;Sua m&#233;dia foi de &quot; &amp; media &amp; &quot;. APROVADO! Parab&#233;ns.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Sua m&#233;dia foi de &quot; &amp; media &amp; &quot;. REPROVADO! Estude mais e tente novamente.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
