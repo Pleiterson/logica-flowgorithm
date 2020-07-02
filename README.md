@@ -1,7 +1,7 @@
 # [Flowgorithm](http://flowgorithm.org/)
 
 Fluxogramas de algoritmos realizados no programa Flowgorithm do Bootcamp Back-end Developer Carrefour da Digital Innovation One.
-Neste, Lógica de Programação, um dos 25 cursos do bootcamp. Download na imagem abaixo.
+Neste, Lógica de Programação, um dos 25 cursos do bootcamp. *Download na imagem abaixo.*
 
 [<img src="https://i.imgur.com/lkO2GGZ.png">](http://flowgorithm.org/download/index.htm)
 
