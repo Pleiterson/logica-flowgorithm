@@ -54,4 +54,4 @@ Este projeto está sob a licença [MIT](./LICENSE).<br><br>
 <br><br>
 
 <!--Bottom session-->
-<h4 align=center>Made with by <a href="https://pleiterson.vercel.app">Pleiterson Amorim</a></h4>
+<h4 align=center>Made with by <a href="https://pleiterson.vercel.app" target="_blank">Pleiterson Amorim</a></h4>
