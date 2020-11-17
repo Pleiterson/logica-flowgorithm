@@ -51,7 +51,7 @@ fonte: https://en.wikipedia.org/wiki/Flowgorithm
 Este projeto está sob a licença [MIT](./LICENSE).<br><br>
 
 <p align="center"><img src="https://imgur.com/MgTFrL5.png"></p>
-<br><br>
+<br>
 
 <!--Bottom session-->
 <h4 align=center>Made with by <a href="https://pleiterson.vercel.app" target="_blank">Pleiterson Amorim</a></h4>
